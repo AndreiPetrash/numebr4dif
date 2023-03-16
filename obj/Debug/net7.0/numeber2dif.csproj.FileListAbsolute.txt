@@ -1,0 +1,15 @@
+/Users/andrei/num/numeber2dif/obj/Debug/net7.0/numeber2dif.csproj.AssemblyReference.cache
+/Users/andrei/num/numeber2dif/obj/Debug/net7.0/numeber2dif.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrei/num/numeber2dif/obj/Debug/net7.0/numeber2dif.AssemblyInfoInputs.cache
+/Users/andrei/num/numeber2dif/obj/Debug/net7.0/numeber2dif.AssemblyInfo.cs
+/Users/andrei/num/numeber2dif/obj/Debug/net7.0/numeber2dif.csproj.CoreCompileInputs.cache
+/Users/andrei/num/numeber2dif/bin/Debug/net7.0/numeber2dif
+/Users/andrei/num/numeber2dif/bin/Debug/net7.0/numeber2dif.deps.json
+/Users/andrei/num/numeber2dif/bin/Debug/net7.0/numeber2dif.runtimeconfig.json
+/Users/andrei/num/numeber2dif/bin/Debug/net7.0/numeber2dif.dll
+/Users/andrei/num/numeber2dif/bin/Debug/net7.0/numeber2dif.pdb
+/Users/andrei/num/numeber2dif/obj/Debug/net7.0/numeber2dif.dll
+/Users/andrei/num/numeber2dif/obj/Debug/net7.0/refint/numeber2dif.dll
+/Users/andrei/num/numeber2dif/obj/Debug/net7.0/numeber2dif.pdb
+/Users/andrei/num/numeber2dif/obj/Debug/net7.0/numeber2dif.genruntimeconfig.cache
+/Users/andrei/num/numeber2dif/obj/Debug/net7.0/ref/numeber2dif.dll
